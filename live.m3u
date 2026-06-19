@@ -411,7 +411,8 @@ https://cc-uyh1ow5zouoio.akamaized.net/WWBI/Amagi/ETV_Josh_IN/playlist.m3u8
 https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8
 #EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/AAQtNVC.jpeg" group-title="Etv-all",Etv Comidy in
 https://cc-wie8j8y69d2uy.akamaized.net/WWBI/Amagi/ETV_Comedy_IN/1080p-cc/index.m3u8
-
+#EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/AAQtNVC.jpeg" group-title="Etv-all",Etv life
+https://d2cj1h11htct8o.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_LIFE_H264_cloud_in/index.m3u8
 
 
 #======movie======
