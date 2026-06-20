@@ -395,7 +395,7 @@ https://mflixott.com/tv/dd/live.php?id=270.m3u8
 #EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/Ic3ulgy.png" group-title="sports",Somoy Tv-FiFa
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
 #EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/unhEKvf.jpeg" group-title="sports",BTV NAtional FiFa
-http://198.195.239.50:8095/sonyMax/tracks-v1a1/mono.m3u8
+http://198.195.239.50:8095/btv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/UmkqPFt.jpeg" group-title="sports",Zeebangla Cinema FiFa
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/master2.m3u8
 #EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/quUOgVo.jpeg" group-title="sports",Go live-FiFa
